@@ -1,0 +1,35 @@
+body {
+  font-family: "Open Sans";
+}
+div.headers h1 {
+  font-weight: 500;
+}
+div.headers h1 span {
+  color: rgb(0, 98, 255);
+}
+p {
+  color: rgb(145, 143, 143);
+  font-weight: 500;
+}
+input {
+  padding: 10px 20px;
+  border-radius: 7px;
+  border: 1px solid transparent;
+  margin-left: 5px;
+  margin-top: 3px;
+}
+input:hover {
+  border: 3px solid;
+  margin-left: 2px;
+  margin-top: 0px;
+}
+input.b1 {
+  color: white;
+  border-color: rgb(0, 102, 255);
+  background-color: rgb(0, 102, 255);
+}
+input.b2 {
+  color: blue;
+  border-color: aliceblue;
+  background-color: aliceblue;
+}
